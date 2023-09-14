@@ -6,6 +6,7 @@ This document provides an overview of the architecture of our Test demo app (for
 
 Our Android app follows a clean architecture pattern, which separates the app into several distinct layers, each with its own responsibilities.
 
+```
 ├── data
 │ ├── api
 │ └── repository
@@ -21,7 +22,7 @@ Our Android app follows a clean architecture pattern, which separates the app in
 │── utils  
 │── di
 └── App.kt
-
+```
 
 ### 1. Presentation Layer
 
