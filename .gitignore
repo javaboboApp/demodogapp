@@ -1,0 +1,92 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.dex
+*.pro
+*.o
+*.so
+out/
+build/
+
+# Gradle files
+.gradle/
+/build/
+/captures/
+/app/*/generated/
+/captured-android-outputs/
+/captured-android-support/
+/build-cache/
+.project
+/local.properties
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/uiDesigner.xml
+*.iml
+*.log
+
+# Android Studio navigation files
+.navigation/
+.versions/
+captures/
+
+# User-specific files
+.gradle/
+/local.properties
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/gradle.xml
+/.idea/libraries
+/.idea/caches
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/uiDesigner.xml
+*.iml
+.idea_modules/
+.idea/
+
+# Keystore files
+keystore.properties
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.cxx/
+.externalNativeBuild/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Android Studio directories
+.idea/
+
+# Android Studio
+*.iws
+.idea
+.gradle
+.local
+.captures
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/

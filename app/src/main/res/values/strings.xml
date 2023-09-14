@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChipTest</string>
+    <string name="title_activity_breeds">BreedsActivity</string>
+    <string name="dialog_error_msg">Please check your internet connection and try again later</string>
+    <string name="dialog_error_title">Something went wrong :(</string>
+    <string name="list_of_breeds_toolbar_title">List of breeds</string>
+    <string name="breed_gallery_title_toolbar">%s\'s Gallery</string>
+    <string name="no_images_results_text">No results</string>
+    <string name="no_results_list_empty">No results</string>
+</resources>
